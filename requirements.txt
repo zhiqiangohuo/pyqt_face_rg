@@ -1,0 +1,13 @@
+torch
+numpy
+matplotlib
+tqdm==4.23.4
+mxnet_cu90==1.2.1
+bcolz==1.2.1
+easydict==1.7
+opencv_python
+Pillow
+mxnet==1.2.1.post1
+scikit_learn==0.19.2
+tensorboardX
+torchvision
